@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SmartClientForESS.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>7D05D77119945E7DC3F0A8795A2457BF24844D30</string>
+				<key>dateExpires</key>
+				<string>2020/11/11</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>8SDUA27Y7M.com.eybond.SmartClientForESS</string>
+				<key>com.apple.developer.associated-domains</key>
+				<array>
+					<string>applinks:rw-universal-links-final.eybond.com</string>
+				</array>
+				<key>com.apple.developer.networking.wifi-info</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>8SDUA27Y7M</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SmartClientForESS.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>22a376a3-a8e7-42ad-a9f8-f32a7d5ea82d</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.eybond.SmartClientForESS</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>8SDUA27Y7M</string>
+				<key>name</key>
+				<string>xiangti meng</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
